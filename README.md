@@ -3,4 +3,4 @@ It allows user to enter Student Details such as Student's Name, Father's Name, M
 Then Computer Generates the Roll Number .
 It contains Various Functions : Add Student Details, Display details of all Students, Search for specific student using roll number, Search for specific student using name, Update details, Delete details, Count of total students in school and count of total students enrolled in the extra course.
 Update Details feature asks the user whether they want to update address, contact Number or Previous year Result.
-User can update as per their choice, ony one, two or all the details.
+User can update as per their choice, any one, two or all the details.
